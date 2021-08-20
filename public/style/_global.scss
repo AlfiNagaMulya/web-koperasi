@@ -1,0 +1,42 @@
+body {
+    font-family: "poppins";
+    background-color: #e5e5f7;
+    opacity: 0.8;
+    background-image: radial-gradient(#444cf7 0.5px, #e5e5f7 0.5px);
+    background-size: 10px 10px;
+}
+
+page-content {
+    margin-top: 180px;
+}
+
+.form-control {
+    background-color: #f3f3f3;
+}
+.carousel-indicators {
+    bottom: -60px;
+}
+
+.networking {
+    margin-top: 80px;
+}
+
+h2 {
+    font-weight: 800;
+}
+
+.footer {
+    margin-top: 150px;
+    color: #0c0d36;
+}
+
+.footer a {
+    color: #0c0d36;
+}
+.footer a:hover {
+    color: #ff7158;
+}
+
+span {
+    color: #ff7158;
+}
